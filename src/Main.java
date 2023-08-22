@@ -3,7 +3,6 @@
 public class Main {
     public static void main(String[] args) {
 
-
         Gryffindor harryPotter = new Gryffindor("Гарри", "Поттер", 9, 85, 35, 74, 5);
         Gryffindor hermioneGranger = new Gryffindor("Гермиона", "Грейнджер", 55, 10, 15, 85, 80);
         Gryffindor ronWeasley = new Gryffindor("Рон", "Уизли", 80, 5, 10, 20, 85);
