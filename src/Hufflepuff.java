@@ -3,6 +3,10 @@
         int diligence;
         int loyalty;
         int honesty;
+        private String name;
+        private String surname;
+        private String magic;
+        private String teleportation;
 
         public Hufflepuff(String name, String surname, int magic, int teleportation, int diligence, int loyalty, int honesty) {
             super(name, surname, magic, teleportation);

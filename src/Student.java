@@ -1,9 +1,10 @@
 
 public class Student {
-    String name;
-    String surname;
-    int magic;
-    int teleportation;
+
+   private String name;
+  private   String surname;
+   private int magic;
+   private int teleportation;
 
     //        public student(String name, String surname, int magic, int teleportation) {
     public Student(String name, String surname, int magic, int teleportation) {

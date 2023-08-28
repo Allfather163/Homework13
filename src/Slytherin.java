@@ -1,4 +1,8 @@
 public class Slytherin extends Student {
+    private String name;
+    private String surname;
+    private String magic;
+    private String teleportation;
     int cunning;
     int determination;
     int ambition;

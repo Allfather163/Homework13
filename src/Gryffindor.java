@@ -3,6 +3,10 @@ class Gryffindor extends Student {
     int nobility;
     int honor;
     int bravery;
+    private String name;
+    private String surname;
+    private String magic;
+    private String teleportation;
 
 
     public Gryffindor(String name, String surname, int magic, int teleportation, int nobility, int honor, int bravery) {

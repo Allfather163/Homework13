@@ -1,5 +1,9 @@
 
 public class Ravenclaw extends Student {
+    private String name;
+    private String surname;
+    private String magic;
+    private String teleportation;
     int intelligence;
     int wisdom;
     int wit;
