@@ -1,13 +1,10 @@
 
 public class Ravenclaw extends Student {
-    private String name;
-    private String surname;
-    private String magic;
-    private String teleportation;
-    int intelligence;
-    int wisdom;
-    int wit;
-    int creativity;
+
+    private int intelligence;
+    private int wisdom;
+    private int wit;
+    private int creativity;
 
     public Ravenclaw(String name, String surname, int magic, int teleportation, int intelligence, int wisdom, int wit, int creativity) {
         super(name, surname, magic, teleportation);

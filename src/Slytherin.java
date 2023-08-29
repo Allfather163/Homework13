@@ -1,13 +1,10 @@
 public class Slytherin extends Student {
-    private String name;
-    private String surname;
-    private String magic;
-    private String teleportation;
-    int cunning;
-    int determination;
-    int ambition;
-    int resourcefulness;
-    int thirstForPower;
+
+    private int cunning;
+    private int determination;
+    private int ambition;
+    private int resourcefulness;
+    private int thirstForPower;
 
     public Slytherin(String name, String surname, int magic, int teleportation,
                      int cunning, int determination, int ambition, int resourcefulness, int thirstForPower) {

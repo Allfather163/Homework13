@@ -1,12 +1,9 @@
 
     public class Hufflepuff extends Student {
-        int diligence;
-        int loyalty;
-        int honesty;
-        private String name;
-        private String surname;
-        private String magic;
-        private String teleportation;
+        private int diligence;
+        private int loyalty;
+        private int honesty;
+
 
         public Hufflepuff(String name, String surname, int magic, int teleportation, int diligence, int loyalty, int honesty) {
             super(name, surname, magic, teleportation);

@@ -1,7 +1,7 @@
 
 public class Student {
 
-   private String name;
+   String name;
   private   String surname;
    private int magic;
    private int teleportation;
